@@ -1,4 +1,4 @@
-# Mobile_Usage_Correlation_Analysis
+# Mobile Usage Correlation Analysis
 
 ## Overview
 This project explores the relationships between different mobile phone usage metrics to understand how various usage patterns are interconnected. The central research question is: **How do screen time, battery level, data usage, physical activity, and call duration correlate with each other?** Understanding these relationships could help users better manage their phone habits and battery life.
